@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Saurabh Kishore
+- I am currently a 4th year student at Carleton University and pursuing a double degree in Cognitive Science and Computer Science.
+- I am very passionate about finding innovative application to technology to imporve efficiency in our day to day lives.
 
 <!--
 **gksaurabh/gksaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://visitor-badge.laobi.icu/badge?page_id=gksaurabh.gksaurabh)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gksaurabh&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gksaurabh&theme=tokyonight)
+
 -->
 
 ## ✉️ Connect With Me!:
@@ -31,8 +39,3 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=gksaurabh.gksaurabh)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gksaurabh&show_icons=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gksaurabh&theme=tokyonight)
