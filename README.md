@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Saurabh Kishore
 - I am currently a 4th year student at Carleton University and pursuing a double degree in Cognitive Science and Computer Science.
 - I am very passionate about finding innovative application to technology to imporve efficiency in our day to day lives.
+- I enjoy learning about data structures, machine learning, and web-development.
+- Fun fact: I love sports and music. If I am not in front of my computer, I am either playing basketball or creating music with my guitar.
 
 <!--
 **gksaurabh/gksaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,7 +37,6 @@ Here are some ideas to get you started:
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
