@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Saurabh Kishore
-- I am currently a 4th year student at Carleton University and pursuing a double degree in Cognitive Science and Computer Science.
+- I am currently pursuing a double degree in Cognitive Science and Computer Science at Carleton University
 - I am very passionate about finding innovative application to technology to imporve efficiency in our day to day lives.
 - I enjoy learning about data structures, machine learning, and web-development.
 - Fun fact: I love sports and music. If I am not in front of my computer, I am either playing basketball or creating music with my guitar.
