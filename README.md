@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Saurabh Kishore
 - I am currently pursuing a double degree in Cognitive Science and Computer Science at Carleton University
+- The project i am currently working on is to integrate different specialized machine learning models together to make a unified expert model. The goal for this project is to improve model prediction accuracy and learn about ensemble learning.  
 - I am very passionate about finding innovative application to technology to imporve efficiency in our day to day lives.
 - I enjoy learning about data structures, machine learning, and web-development.
 - Fun fact: I love sports and music. If I am not in front of my computer, I am either playing basketball or creating music with my guitar.
